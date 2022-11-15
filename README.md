@@ -3,7 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/cletqui" target="blank"><img src="https://img.shields.io/twitter/follow/cletqui?logo=twitter&style=for-the-badge" alt="cletqui" /></a> </p>
 
-- 🔭 I’m currently working on **my home server**
+- 🏠 I’m currently working on **my home server**.
+- 🦋 I'm also working on a **text parsing project** to color the different sounds.
+- 🛡️ I worked on a **frontend React application** for a cybersecurity solution similar to VirusTotal.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
