@@ -5,7 +5,7 @@
 
 - 🏠 I’m currently working on **my home server**.
 - 🦋 I'm also working on a **text parsing project** to color the different sounds.
-- 🛡️ I worked on a **frontend React application** for a cybersecurity solution similar to VirusTotal.
+- 🛡️ I worked as a **frontend React developer** for a cybersecurity application similar to VirusTotal.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
