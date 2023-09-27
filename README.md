@@ -4,6 +4,7 @@
 <p align="left"> <a href="https://twitter.com/cletqui" target="blank"><img src="https://img.shields.io/twitter/follow/cletqui?logo=twitter&style=for-the-badge" alt="cletqui" /></a> </p>
 
 - 🏠 I’m currently working on **my home server** (multimedia server).
+- 🌐 I'll post some **cybersecurity related projects/scripts** from time to time.
 - 🦋 I'm also working on a **coloring text project** to color the sounds in a text.
 - 🛡️ I worked as a **frontend React developer** for a cybersecurity application similar to VirusTotal.
 
