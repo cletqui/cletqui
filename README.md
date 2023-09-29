@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Antoine</h1>
-<h3 align="center">A passionate cybersecurity engineer from France</h3>
+# Hi 👋, I'm Antoine
 
-<p align="left">
-  <a href="https://twitter.com/cletqui" target="blank"><img src="https://img.shields.io/twitter/follow/cletqui?logo=twitter&style=for-the-badge" alt="cletqui Twitter" /></a>
-</p>
+## A passionate cybersecurity engineer from France
+
+![cletqui profile views](https://komarev.com/ghpvc/?username=cletqui&color=A7A79F)
 
 - 🏠 I’m currently working on **my home server** (multimedia server).
 - 🌐 I'll post some **cybersecurity related projects/scripts** from time to time.
@@ -11,183 +10,76 @@
 - 🛡️ I worked as a **frontend React developer** for a cybersecurity application similar to VirusTotal.
 - 💬 If you have any questions, **just ask me**.
 
-<details open>
-  <summary>
-    <h3 align="left">📫 Contact Me:</h3>
-  </summary>
-  
-  <p>
-    <a href="https://twitter.com/cletqui" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="cletqui Twitter" height="30" width="40" /></a>
-  </p>
-</details>
+### 📌 Where to find me
 
-<details closed>
-  <summary>
-    <h3 align="left">🛠️ My Favorite Tools</h3>
-  </summary>
+[![cletqui Twitter](https://img.shields.io/badge/Twitter-@cletqui-1DA1F2?logo=Twitter&style=for-the-badge)](https://twitter.com/cletqui)
 
-  <h5>👨‍💻 Programming and Markup Languages</h5>
-  <p>
-    <a href="https://www.gnu.org/software/bash/">
-      <img alt="GNU Bash" src="https://img.shields.io/badge/GNU  Bash-4EAA25?logo=gnu-bash&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.open-std.org/jtc1/sc22/wg14/">
-      <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://isocpp.org/">
-      <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.w3.org/TR/CSS/#css">
-      <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://html.spec.whatwg.org/multipage/">
-      <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.javascript.com/">
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=flat-square">
-    </a>
-    <a href="https://www.jupyter.org/">
-      <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.markdownguide.org/">
-      <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.python.org/">
-      <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.r-project.org/">
-      <img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.iso.org/standard/76583.html">
-      <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-16A085?logo=database&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.typescriptlang.org/">
-      <img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=FFFFFF&style=flat-square">
-    </a>
-  </p>
+[![cletqui GitHub](https://img.shields.io/badge/GitHub-cletqui-181717?logo=GitHub&style=for-the-badge)](https://github.com/cletqui)
 
-  <h5>🧰 Frameworks and Libraries</h5>
-  <p>
-    <a href="https://www.djangoproject.com/">
-      <img alt="Django" src="https://img.shields.io/badge/Django-092E20?&logo=django&logoColor=FFFFFF&tyle=flat-square">
-    </a>
-    <a href="https://github.com/">
-      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF?logo=github-actions&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://nextjs.org/">
-      <img alt="NextJS" src="https://img.shields.io/badge/Next JS-000000?logo=next.js&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://nodejs.org/">
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://pytorch.org/">
-      <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://react.dev/">
-      <img alt="React" src="https://img.shields.io/badge/REACT-61DAFB?logo=react&logoColor=000000&style=flat-square">
-    </a>
-  </p>
+### 🛠️ What I use
 
-  <h5>🗄️ Databases and Cloud Hosting</h5>
-  <p>
-    <a href="https://aws.amazon.com/console/">
-      <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://pages.cloudflare.com/">
-      <img alt="Cloudflare Pages" src="https://img.shields.io/badge/Cloudflare Pages-F38020?logo=cloudflare-pages&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://pages.github.com/">
-      <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub Pages-222222?logo=github&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.heroku.com/">
-      <img alt="https://www.heroku.com/" src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://portal.azure.com/">
-      <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoft-azure&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.oracle.com/cloud/">
-      <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle Cloud-F80000?logo=oracle&logoColor=FFFFFF&style=flat-square">
-    </a>
-  </p>
+#### 👨‍💻 Programming and Markup Languages
 
-  <h5>💻 Software and Tools</h5>
-  <p>
-    <a href="https://bitwarden.com/">
-      <img alt="Bitwarden" src="https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.debian.org/">
-      <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.docker.com/">
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://git-scm.com/">
-      <img alt="Git" src="https://img.shields.io/badge/Git-F05033?logo=git&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://github.com/">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://nginx.org/">
-      <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.postman.com/">
-      <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=wireshark&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.torproject.org/">
-      <img alt="Tor Browser" src="https://img.shields.io/badge/Tor Browser-7D4698?logo=tor-browser&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://ubuntu.com/">
-      <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.vagrantup.com/">
-      <img alt="Vagrant" src="https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.virtualbox.org/">
-      <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://code.visualstudio.com/">
-      <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7?logo=visual-studio-code&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.wireguard.com/">
-      <img alt="WireGuard" src="https://img.shields.io/badge/WireGuard-88171A?logo=wireguard&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.wireshark.org/">
-      <img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=FFFFFF&style=flat-square">
-    </a>
-  </p>
+[![GNU Bash](https://img.shields.io/badge/GNU_Bash-★★★-4EAA25?logo=GNU-Bash&logoColor=4EAA25&style=flat-square)](https://www.gnu.org/software/bash/)
+[![C](https://img.shields.io/badge/C-★-A8B9CC?logo=C&logoColor=A8B9CC&style=flat-square)](https://www.open-std.org/jtc1/sc22/wg14/)
+[![C++](https://img.shields.io/badge/C%2B%2B-★-A8B9CC?logo=cplusplus&logoColor=A8B9CC&style=flat-square)](https://isocpp.org/)
+[![CSS](https://img.shields.io/badge/CSS-★★-1572B6?logo=CSS3&logoColor=1572B6&style=flat-square)](https://www.w3.org/TR/CSS/#css)
+[![HTML](https://img.shields.io/badge/HTML-★★-E34F26?logo=HTML5&logoColor=E34F26&style=flat-square)](https://html.spec.whatwg.org/multipage/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-★★-F7DF1E?logo=JavaScript&logoColor=F7DF1E&style=flat-square)](https://www.javascript.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-★★-F37626?logo=Jupyter&logoColor=F37626&style=flat-square)](https://www.jupyter.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-★★★-000000?logo=Markdown&logoColor=000000&style=flat-square)](https://www.markdownguide.org/)
+[![Python](https://img.shields.io/badge/Python-★★★-3776AB?logo=Python&logoColor=3776AB&style=flat-square)](https://www.python.org/)
+[![R](https://img.shields.io/badge/R-★★-276DC3?logo=R&logoColor=276DC3&style=flat-square)](https://www.r-project.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-★★-3178C6?logo=TypeScript&logoColor=3178C6&style=flat-square)](https://www.typescriptlang.org/)
 
-  <h5>🛡️ Internet Security Solutions</h5>
-  <p>
-    <a href="https://www.cloudflare.com/">
-      <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.ibm.com/qradar">
-      <img alt="IBM Qradar" src="https://img.shields.io/badge/IBM Qradar-052FAD?logo=ibm&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://opensearch.org/">
-      <img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.paloaltonetworks.com/">
-      <img alt="Palo Alto Networks" src="https://img.shields.io/badge/Palo Alto Networks-F04E23?logo=palo-alto-networks&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.splunk.com/">
-      <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=FFFFFF&style=flat-square">
-    </a>
-    <a href="https://www.virustotal.com/">
-      <img alt="VirusTotal" src="https://img.shields.io/badge/VirusTotal-394EFF?logo=virustotal&logoColor=FFFFFF&style=flat-square">
-    </a>
-  </p>
-</details>
+#### 🧰 Frameworks and Libraries
 
-<details closed>
-  <summary>
-    <h3 align="left">📈 My Github Stats and Activity</h3>
-  </summary>
+[![Django](https://img.shields.io/badge/Django-★★-092E20?logo=Django&logoColor=092E20&style=flat-square)](https://www.djangoproject.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-★★★-2088FF?logo=GitHub-Actions&logoColor=2088FF&style=flat-square)](https://github.com/)
+[![Next.JS](https://img.shields.io/badge/Next.JS-★-000000?logo=Next.JS&logoColor=000000&style=flat-square)](https://nextjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-★★-339933?logo=Node.js&logoColor=339933&style=flat-square)](https://nodejs.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-★★-EE4C2C?logo=PyTorch&logoColor=EE4C2C&style=flat-square)](https://pytorch.org/)
+[![React](https://img.shields.io/badge/React-★★★-61DAFB?logo=React&logoColor=61DAFB&style=flat-square)](https://react.dev/)
 
-  <h5>💻 GitHub Profile Stats</h5>
+#### 🗄️ Databases and Cloud Hosting
 
-  <p>
-    <a href="#"><img alt="cletqui's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=cletqui&locale=en&show_icons=true&theme=transparent" height="192px"/></a>
-    <a href="#"><img alt="cletqui's top languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=cletqui&langs_count=8&theme=transparent" height="192px"/></a>
-  </p>
-</details>
+[![AWS](https://img.shields.io/badge/AWS-★★-232F3E?logo=Amazon-AWS&logoColor=232F3E&style=flat-square)](https://aws.amazon.com/console/)
+[![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-★★★-F38020?logo=Cloudflare-Pages&logoColor=F38020&style=flat-square)](https://pages.cloudflare.com/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-★★★-222222?logo=GitHub-Pages&logoColor=222222&style=flat-square)](https://pages.github.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-★★-430098?logo=Heroku&logoColor=430098&style=flat-square)](https://www.heroku.com/)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-★★-0078D4?logo=Microsoft-Azure&logoColor=0078D4&style=flat-square)](https://portal.azure.com/)
+[![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-★★★-F80000?logo=Oracle&logoColor=F80000&style=flat-square)](https://www.oracle.com/cloud/)
+
+#### 💻 Software and Tools
+
+[![Bitwarden](https://img.shields.io/badge/Bitwarden-★★★-175DDC?logo=Bitwarden&logoColor=175DDC&style=flat-square)](https://bitwarden.com/)
+[![Debian](https://img.shields.io/badge/Debian-★★★-A81D33?logo=Debian&logoColor=A81D33&style=flat-square)](https://www.debian.org/)
+[![Docker](https://img.shields.io/badge/Docker-★★★-2496ED?logo=Docker&logoColor=2496ED&style=flat-square)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-★★★-F05033?logo=Git&logoColor=F05033&style=flat-square)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-★★★-181717?logo=GitHub&logoColor=181717&style=flat-square)](https://github.com/)
+[![Nginx](https://img.shields.io/badge/Nginx-★★★-009639?logo=Nginx&logoColor=009639&style=flat-square)](https://nginx.org/)
+[![Postman](https://img.shields.io/badge/Postman-★★-FF6C37?logo=Postman&logoColor=FF6C37&style=flat-square)](https://www.postman.com/)
+[![Tor Browser](https://img.shields.io/badge/Tor_Browser-★★-7D4698?logo=Tor-Browser&logoColor=7D4698&style=flat-square)](https://www.torproject.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-★★★-E95420?logo=Ubuntu&logoColor=E95420&style=flat-square)](https://ubuntu.com/)
+[![Vagrant](https://img.shields.io/badge/Vagrant-★★-183A61?logo=Vagrant&logoColor=183A61&style=flat-square)](https://www.vagrantup.com/)
+[![VirtualBox](https://img.shields.io/badge/VirtualBox-★★★-183A61?logo=VirtualBox&logoColor=183A61&style=flat-square)](https://www.virtualbox.org/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-★★★-0078d7?logo=Visual-Studio-Code&logoColor=0078d7&style=flat-square)](https://code.visualstudio.com/)
+[![WireGuard](https://img.shields.io/badge/WireGuard-★★★-88171A?logo=WireGuard&logoColor=88171A&style=flat-square)](https://www.wireguard.com/)
+[![Wireshark](https://img.shields.io/badge/Wireshark-★★★-1679A7?logo=Wireshark&logoColor=1679A7&style=flat-square)](https://www.wireshark.org/)
+
+#### 🛡️ Internet Security Solutions
+
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-★★★-F38020?logo=Cloudflare&logoColor=F38020&style=flat-square)](https://www.cloudflare.com/)
+[![IBM Qradar](https://img.shields.io/badge/IBM_Qradar-★★★-052FAD?logo=IBM&logoColor=052FAD&style=flat-square)](https://www.ibm.com/qradar)
+[![OpenSearch](https://img.shields.io/badge/OpenSearch-★★★-005EB8?logo=OpenSearch&logoColor=005EB8&style=flat-square)](https://opensearch.org/)
+[![Palo Alto Networks](https://img.shields.io/badge/Palo_Alto_Networks-★★-F04E23?logo=Palo-Alto-Networks&logoColor=F04E23&style=flat-square)](https://www.paloaltonetworks.com/)
+[![Splunk](https://img.shields.io/badge/Splunk-★★★-000000?logo=Splunk&logoColor=000000&style=flat-square)](https://www.splunk.com/)
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-★★-394EFF?logo=VirusTotal&logoColor=394EFF&style=flat-square)](https://www.virustotal.com/)
+
+### 📈 My Github Stats and Activity
+
+#### 💻 GitHub Profile Stats</h5>
+
+![cletqui GitHub stats](https://github-readme-stats.vercel.app/api?username=cletqui&locale=en&show_icons=true&theme=transparent)
+
+![cletqui GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs?username=cletqui&langs_count=8&theme=transparent)
