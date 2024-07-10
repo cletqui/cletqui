@@ -4,17 +4,19 @@
 
 ![cletqui profile views](https://komarev.com/ghpvc/?username=cletqui&color=A7A79F)
 
-- 🏠 I’m currently working on **my home server** (multimedia server).
-- 🌐 I'll post some **cybersecurity related projects/scripts** from time to time.
+- 🌌 I just created **[PetitHub](https://github.com/cletqui/petithub/)**, a website to explore random obscure GitHub repositories.
+- 🤖 I'm currently working on a **cybersecurity app** to help with everyday cybersecurity work.
+- 🏠 I’m often working on **my home server** (multimedia server).
+- 🌐 I'll (try to) post some **cybersecurity related projects/scripts** from time to time.
 - 🦋 I'm also working on a **coloring text project** to color the sounds in a text.
 - 🛡️ I worked as a **frontend React developer** for a cybersecurity application similar to VirusTotal.
 - 💬 If you have any questions, **just ask me**.
 
 ### 📌 Where to find me
 
-[![cletqui Twitter](https://img.shields.io/badge/Twitter-@cletqui-1DA1F2?logo=Twitter&style=for-the-badge)](https://twitter.com/cletqui)
+[![cletqui Twitter](https://img.shields.io/twitter/follow/cletqui?logo=x&style=for-the-badge)](https://twitter.com/cletqui)
 
-[![cletqui GitHub](https://img.shields.io/badge/GitHub-cletqui-181717?logo=GitHub&style=for-the-badge)](https://github.com/cletqui)
+[![cletqui GitHub](https://img.shields.io/github/followers/cletqui?logo=github&color=181717&style=for-the-badge)](https://github.com/cletqui)
 
 ### 🛠️ What I use
 
