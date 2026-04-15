@@ -18,12 +18,12 @@ Professional background in threat intelligence platforms and SIEM. Building focu
 
 | Project | Description |
 |---|---|
-| [**cybai.re**](https://app.cybai.re) | OSINT lookup — domains, IPs, CVEs, ASNs, hashes |
-| [**api.cybai.re**](https://api.cybai.re/docs) | Open cybersecurity REST API (Cloudflare Worker) |
-| [**petitHub**](https://github.com/cletqui/petithub) | Explore random obscure GitHub repositories |
-| [**mail**](https://mail.cybai.re) | Mail analysis webapp |
-| [**apero**](https://apero.cybai.re) | Apero world clock |
-| [**tide**](https://tide.cybai.re) | French harbour tide forecasts |
+| [**app**](https://github.com/cletqui/app) | OSINT lookup — domains, IPs, CVEs, ASNs, hashes |
+| [**api**](https://github.com/cletqui/api) | Open cybersecurity REST API (Cloudflare Worker) |
+| [**petithub**](https://github.com/cletqui/petithub) | Explore random obscure GitHub repositories |
+| [**mail**](https://github.com/cletqui/mail) | Mail analysis webapp |
+| [**apero**](https://github.com/cletqui/apero) | Apero world clock |
+| [**tide**](https://github.com/cletqui/tide) | French harbour tide forecasts |
 
 ## Stack
 
