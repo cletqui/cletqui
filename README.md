@@ -18,12 +18,13 @@ Professional background in threat intelligence platforms and SIEM. Building focu
 
 | Project | Description |
 |---|---|
-| [**app**](https://github.com/cletqui/app) | OSINT lookup — domains, IPs, CVEs, ASNs, hashes |
-| [**api**](https://github.com/cletqui/api) | Open cybersecurity REST API (Cloudflare Worker) |
+| [**app.cybai.re**](https://github.com/cletqui/app.cybai.re) | OSINT lookup — domains, IPs, CVEs, ASNs, hashes |
+| [**api.cybai.re**](https://github.com/cletqui/api.cybai.re) | Open cybersecurity REST API (Cloudflare Worker) |
 | [**petithub**](https://github.com/cletqui/petithub) | Explore random obscure GitHub repositories |
 | [**mail**](https://github.com/cletqui/mail) | Mail analysis webapp |
 | [**apero**](https://github.com/cletqui/apero) | Apero world clock |
 | [**tide**](https://github.com/cletqui/tide) | French harbour tide forecasts |
+| [**callot**](https://github.com/cletqui/callot) | Tide accessibility tracker for Île Callot |
 
 ## Stack
 
@@ -31,11 +32,11 @@ Professional background in threat intelligence platforms and SIEM. Building focu
 
 **Frontend** · React · Vite · Tailwind CSS
 
-**Backend** · Hono · Cloudflare Workers · Node.js
+**Backend** · Hono · Cloudflare Workers · Node.js · Django
 
-**Infra** · Docker · Nginx · Oracle Cloud · Linux
+**Infra** · Docker · Nginx · Caddy · Oracle Cloud · Linux
 
-**Security** · Splunk · IBM QRadar · OpenSearch · Cloudflare · Palo Alto
+**Security** · Splunk · IBM QRadar · OpenSearch · Cloudflare · Palo Alto · Crowdsec
 
 ## Stats
 
